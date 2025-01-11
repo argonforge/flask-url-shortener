@@ -1,1 +1,2 @@
-# flask-url-shortener
+# falsk-url-shortener
+just a simple url shortener
